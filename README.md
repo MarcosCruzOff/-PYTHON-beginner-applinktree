@@ -1,5 +1,7 @@
-# -PYTHON-beginner-applinktree
-# -PYTHON-beginner-applinktree
-# -PYTHON-beginner-applinktree
-# -PYTHON-beginner-applinktree
-# -PYTHON-beginner-applinktree
+# App Linktree
+
+App criado pra práticar python.
+
+### -Nível de projeto Iniciante
+
+
