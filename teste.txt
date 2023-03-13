@@ -1,4 +1,0 @@
-frutas
-maçã
-uva
-banana

@@ -5,20 +5,19 @@ App = Tk()
 
 App.title("App Linktree")
 App.geometry("380x720")
-
-icon = PhotoImage(file="icon.png")
-App.wm_iconphoto(True, icon)
+App.resizable(False, False)
+icon = PhotoImage(file="imagens/icon.png")
+App.iconphoto(True, icon)
 
 #Background do app
-fundo = PhotoImage(file="fundo.png")
+fundo = PhotoImage(file="imagens/fundo.png")
 background = Label(App,image=fundo)
 background.place(x=-2, y=0)
 
 #Imagem de perfil
 canvas = Canvas(App, width=200, height=150,  bg="#2d506b", highlightthickness=0)
 canvas.pack(pady=10)
-
-perfil = PhotoImage(file= "Eu.png")
+perfil = PhotoImage(file= "imagens/Eu.png")
 resized_image = perfil.subsample(6, 6)
 canvas.create_image(100,75, image=resized_image)
 
