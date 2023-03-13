@@ -1,10 +1,17 @@
 # App Linktree
 
-## App criado pra práticar python.
+### App criado para práticar python.
 
 -   Nível de projeto Iniciante
--   Coloque o link das suas redes sociais
+-   Faça suas aterações
+-   Coloque os link das suas redes sociais
 -   Coloque sua foto de perfil
 -   coloque o icone da sua logo
+
+<br>
+
+### Se chegou até, Deixe sua estrelinha, isso me ajudará bastante
+
+<br>
 
 ![foto app](/imagens/applinktree.png)
